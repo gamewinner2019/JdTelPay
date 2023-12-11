@@ -48,8 +48,8 @@ def proxy_ip(pid=-1, cid=-1):
         singleIp:切换,0=切换，1=不切换
     """
     for i in range(1, 10):
-        orderId = "O23082900494105859346"
-        secret = "2b4def38271448a7b31d7854bdf7424e"
+        orderId = ""
+        secret = ""
         num = "1"
         pid = str(pid)
         cid = str(cid)
